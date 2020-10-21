@@ -5,8 +5,8 @@ switch interface with the HCS12 in the Dragon 12-plus.
 
 ### Hardware Configuration
 
-| ![hw]('Hardware-Configuration.jpg) |
-| ---------------------------------- |
+| ![hw](Hardware-Configuration.jpg) |
+| --------------------------------- |
 
 
 </br>
