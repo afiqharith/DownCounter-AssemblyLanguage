@@ -4,11 +4,11 @@ The objective of this project is to utilize the 7-segments display and DIP
 switch interface with the HCS12 in the Dragon 12-plus.
 
 ### Hardware Configuration
-|----------------------------------------|
+
 | ![dg12](Dragon12_Plus2_layout.PNG)     |
 | ![7s](7_segment_schematic_diagram.PNG) |
 | ![hw](Hardware-Configuration.jpg)      |
-|----------------------------------------|
+
 </br>
 
 ### DDR Table
